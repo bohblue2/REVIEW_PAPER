@@ -21,7 +21,7 @@ ___
 
 ## AI Applied to Finance
 
-- (J. Doering, M. Fairbank, and S. Markose, "Convolutional Neural Networks Applied to High-Frequency Market Microstructure Forecasting", 2017 9th Computer Science and Electronic Engineering(CEEC), 2017)[https://github.com/bohblue2/Convolutional-Neural-Networks-Applied-to-High-Frequency-Market-Microstructure-Forecasting]
+- [J. Doering, M. Fairbank, and S. Markose, "Convolutional Neural Networks Applied to High-Frequency Market Microstructure Forecasting", 2017 9th Computer Science and Electronic Engineering(CEEC), 2017](https://github.com/bohblue2/Convolutional-Neural-Networks-Applied-to-High-Frequency-Market-Microstructure-Forecasting)
 - 
 
 ___
