@@ -13,9 +13,11 @@ List of the papers I reviewed and implemented (or just reviewed without implemen
 
 ### RL
 
+### AE 
+
+### ETC (ActivationLayer, BatchNorm, DropOut, Optimization...)
+
 ___
-
-
 
 
 
