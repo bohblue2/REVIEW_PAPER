@@ -15,13 +15,15 @@ List of the papers I reviewed and implemented (or just reviewed without implemen
 
 ### AE 
 
-### ETC (ActivationLayer, BatchNorm, DropOut, Optimization...)
-
-___
+### Others (Novel Insights, Optimization...) 
 
 
 
 ## AI Applied to Finance
+
+- Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals. [Paper](https://arxiv.org/abs/1711.04837) [Review](https://github.com/bohblue2/Improving-Factor-Based-Quantitative-Investing-by-Forecasting-Company-Fundamentals)
+
+  John Alberg, Zachary C. Lipton, ArXiv, 2018
 
 - Convolutional Neural Networks Applied to High-Frequency Market Microstructure Forecasting. [Paper](https://ieeexplore.ieee.org/document/8101595/) [Review](https://github.com/bohblue2/Convolutional-Neural-Networks-Applied-to-High-Frequency-Market-Microstructure-Forecasting)
 
@@ -31,8 +33,5 @@ ___
 
   Zhengyo Jiang, Dixing Xu, Jinjun Liang, ArXiv, 2017
 
-- Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals. [Paper](https://arxiv.org/abs/1711.04837) [Review](https://github.com/bohblue2/Improving-Factor-Based-Quantitative-Investing-by-Forecasting-Company-Fundamentals)
+- 
 
-  John Alberg, Zachary C. Lipton, ArXiv, 2018
-
-  
