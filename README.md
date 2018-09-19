@@ -3,23 +3,27 @@ List of the papers I reviewed and implemented (or just reviewed without implemen
 
 
 
-## AI
+## Deep Learning
 
-### CNN
+From Basics To State Of The Arts
 
-### GAN
+### Convolutional Neural Network(CNN)
 
-### RNN
+### Generative Adversarial Network(GAN)
 
-### RL
+### Recurrent Neural Network(RNN)
 
-### AE 
+### Reinforcement Learning(RL)
+
+### AutoEncoder(AE) 
 
 ### Others (Novel Insights, Optimization...) 
 
 
 
-## AI Applied to Finance
+## Deep Learning, Applied to Finance
+
+This category focuses on stock price (or fundamental) prediction from long-term or short-term perspective, and efficient asset management (portfolio optimization and asset allocation).
 
 - Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals. [Paper](https://arxiv.org/abs/1711.04837) [Review](https://github.com/bohblue2/Improving-Factor-Based-Quantitative-Investing-by-Forecasting-Company-Fundamentals)
 
@@ -33,5 +37,8 @@ List of the papers I reviewed and implemented (or just reviewed without implemen
 
   Zhengyo Jiang, Dixing Xu, Jinjun Liang, ArXiv, 2017
 
-- 
+
+
+
+## Parallel Distributed Processing
 
