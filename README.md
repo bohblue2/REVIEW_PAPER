@@ -1,9 +1,9 @@
 # REVIEW_PAPER
-Summaries and implementation of papers on deep learning. 
+Summaries and implementation of papers on deep learning. (Some reviews are in progress.)
 
-Some reviews are in progress.
-
-
+> **Please note that these reviews are for my future self to look back and remember the materials on this paper without reading it all over again.** 
+>
+> Thank you.
 
 
 
@@ -27,17 +27,17 @@ From Basics To State Of The Arts
 
   Simon Becker, Yao Zhang, Alpha A. Lee, ArXiv, 2018
 
-- Visualizing Data using t-SNE [Paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) [Review](https://github.com/bohblue2/Visualizing-Data-using-t-SNE)
+- Visualizing Data using t-SNE [Paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) [Review & Implementation](https://github.com/bohblue2/Visualizing-Data-using-t-SNE)
 
   Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
 
+  
 
-
-
+  
 
 ## Deep Learning, Applied to Finance
 
-This category focuses on stock price (or fundamental) prediction from long-term or short-term perspective, and efficient asset management (portfolio optimization and asset allocation).
+This category focuses on stock price (or fundamentals) prediction from long-term or short-term perspective, and efficient asset management (portfolio optimization and asset allocation).
 
 - Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals. [Paper](https://arxiv.org/abs/1711.04837) [Review](https://github.com/bohblue2/Improving-Factor-Based-Quantitative-Investing-by-Forecasting-Company-Fundamentals)
 
@@ -59,9 +59,9 @@ This category focuses on stock price (or fundamental) prediction from long-term 
 
    Yue Deng, Feng Bao, Youyong Kong, Zhiquan Ren, and Qionghai Dai, Senior Member, IEEE, 2017
 
+  
 
-
-
+  
 
 
 ## Parallel Distributed Processing on Deep Learning
