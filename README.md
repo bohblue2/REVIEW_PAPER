@@ -7,8 +7,6 @@ Summaries and implementations of papers on deep learning. (Some reviews are in p
 
 # Deep Learning
 
-From Basics To State Of The Arts
-
 ### Convolutional Neural Network(CNN)
 
 ### Generative Adversarial Network(GAN)
@@ -63,4 +61,3 @@ This category focuses on stock price (or fundamentals) prediction from long-term
 
 # Parallel Distributed Processing on Deep Learning
 
-I want to feel hyper-accelerated learning speed with the lowest cost.
