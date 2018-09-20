@@ -5,9 +5,7 @@ Summaries and implementation of papers on deep learning. (Some reviews are in pr
 >
 > Thank you.
 
-
-
-## Deep Learning
+# Deep Learning
 
 From Basics To State Of The Arts
 
@@ -31,13 +29,9 @@ From Basics To State Of The Arts
 
   Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
 
+  
 
-
-___
-
-
-
-## Deep Learning, Applied to Finance
+# Deep Learning, Applied to Finance
 
 This category focuses on stock price (or fundamentals) prediction from long-term or short-term perspective, and efficient asset management (portfolio optimization and asset allocation).
 
@@ -63,10 +57,5 @@ This category focuses on stock price (or fundamentals) prediction from long-term
 
 
 
-___
-
-  
-
-
-## Parallel Distributed Processing on Deep Learning
+# Parallel Distributed Processing on Deep Learning
 
