@@ -31,9 +31,11 @@ From Basics To State Of The Arts
 
   Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
 
-  
 
-  
+
+___
+
+
 
 ## Deep Learning, Applied to Finance
 
@@ -59,7 +61,9 @@ This category focuses on stock price (or fundamentals) prediction from long-term
 
    Yue Deng, Feng Bao, Youyong Kong, Zhiquan Ren, and Qionghai Dai, Senior Member, IEEE, 2017
 
-  
+
+
+___
 
   
 
