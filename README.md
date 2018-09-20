@@ -29,11 +29,11 @@ From Basics To State Of The Arts
 
   Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
 
-  
+
 
 # Deep Learning, Applied to Finance
 
-This category focuses on stock price (or fundamentals) prediction from long-term or short-term perspective, and efficient asset management (portfolio optimization and asset allocation).
+This category focuses on stock price (or fundamentals) prediction from long-term or short-term perspective, and efficient asset management (portfolio optimization and asset allocation using deep learning).
 
 - Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals. [Paper](https://arxiv.org/abs/1711.04837) [Review](https://github.com/bohblue2/Improving-Factor-Based-Quantitative-Investing-by-Forecasting-Company-Fundamentals)
 
@@ -57,5 +57,10 @@ This category focuses on stock price (or fundamentals) prediction from long-term
 
 
 
+# Quantitative Investing
+
+
+
 # Parallel Distributed Processing on Deep Learning
 
+I want to feel hyper-accelerated learning speed with the lowest cost.
