@@ -1,5 +1,9 @@
 # REVIEW_PAPER
-List of the papers I reviewed and implemented (or just reviewed without implemented).
+Summaries and implementation of papers on deep learning. 
+
+Some reviews are in progress.
+
+
 
 
 
@@ -17,7 +21,17 @@ From Basics To State Of The Arts
 
 ### AutoEncoder(AE) 
 
-### Others (Novel Insights, Optimization...) 
+### Others (Optimization, Visualization, ...) 
+
+- Geometry of energy landscapes and the optimizability of deep neural networks. [Paper](https://arxiv.org/abs/1808.00408) [Review](https://github.com/bohblue2/Geometry-of-energy-landscapes-and-the-optimizability-of-deep-neural-networks)
+
+  Simon Becker, Yao Zhang, Alpha A. Lee, ArXiv, 2018
+
+- Visualizing Data using t-SNE [Paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) [Review](https://github.com/bohblue2/Visualizing-Data-using-t-SNE)
+
+  Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
+
+
 
 
 
@@ -37,8 +51,18 @@ This category focuses on stock price (or fundamental) prediction from long-term 
 
   Zhengyo Jiang, Dixing Xu, Jinjun Liang, ArXiv, 2017
 
+- A deep learning framework for financial time series using stacked autoencoders and long-short term memory. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180944) [Review](https://github.com/bohblue2/A-deep-learning-framework-for-financial-time-series-using-stacked-autoencoders-and-long-short-term-m)
+
+   Wei Bao, Jun Yue, Yulei Rao, PLOS, 2017
+
+- Deep Direct Reinforcement Learning for Financial Signal Representation and Trading. [Paper](https://ieeexplore.ieee.org/document/7407387/) [Review](https://github.com/bohblue2/Deep-Direct-Reinforcement-Learning-for-Financial-Signal-Representation-and-Trading)
+
+   Yue Deng, Feng Bao, Youyong Kong, Zhiquan Ren, and Qionghai Dai, Senior Member, IEEE, 2017
 
 
 
-## Parallel Distributed Processing
+
+
+
+## Parallel Distributed Processing on Deep Learning
 
