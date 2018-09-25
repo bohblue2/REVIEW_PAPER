@@ -15,9 +15,16 @@ Summaries and implementations of papers on deep learning. (Some reviews are in p
 
 ### Reinforcement Learning(RL)
 
+(in-progress)
+
+- DQN
+- A2C
+- A3C
+- GA3C
+
 ### AutoEncoder(AE) 
 
-### Others (Optimization, Visualization, ...) 
+### Others(Optimization, Visualization, ...) 
 
 - Geometry of energy landscapes and the optimizability of deep neural networks. [Paper](https://arxiv.org/abs/1808.00408) [Review](https://github.com/bohblue2/Geometry-of-energy-landscapes-and-the-optimizability-of-deep-neural-networks)
 
