@@ -17,7 +17,10 @@ Summaries and implementations of papers on deep learning. (Some reviews are in p
 
 (in-progress)
 
-- DQN
+- DQN 2013
+- DQN 2015
+- Policy Gradient
+- REINFORCE
 - A2C
 - A3C
 - GA3C
