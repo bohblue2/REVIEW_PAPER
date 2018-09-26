@@ -11,14 +11,16 @@ Summaries and implementations of papers on deep learning. (Some reviews are in p
 
 ### Generative Adversarial Network(GAN)
 
+- Generative Adversarial Nets 2014
+
 ### Recurrent Neural Network(RNN)
 
 ### Reinforcement Learning(RL)
 
 (in-progress)
 
-- DQN 2013
-- DQN 2015
+- DQN NIPS 2013
+- DQN Nature 2015
 - Policy Gradient
 - REINFORCE
 - A2C
