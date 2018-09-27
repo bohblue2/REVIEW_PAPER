@@ -23,7 +23,6 @@ Summaries and implementations of papers on deep learning. (Some reviews are in p
 - DQN Nature 2015
 - Policy Gradient
 - REINFORCE
-- A2C
 - A3C
 - GA3C
 
