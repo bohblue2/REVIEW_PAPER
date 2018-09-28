@@ -70,7 +70,10 @@ This category focuses on stock price (or fundamentals) prediction from long-term
 
 # Quantitative Investing
 
+These are for learning domain knowledge.
+
 
 
 # Parallel Distributed Processing on Deep Learning
 
+I'm studying this field just for fun! it is interesting! isn't it Sir?
