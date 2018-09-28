@@ -1,11 +1,11 @@
 # REVIEW_PAPER
 Summaries and implementations of papers on deep learning.
 
->Some reviews are in progress.
-
 > **Please note that these reviews are for my future self to look back and remember the materials on this paper without reading it all over again.**
 >
 > Thank you.
+
+>  **Some reviews are in progress.**
 
 # Deep Learning
 
