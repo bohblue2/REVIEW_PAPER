@@ -21,10 +21,18 @@ Summaries and implementations of papers on deep learning.
 
 (in-progress)
 
+#### Value-Based Reinforcement Learning
+
 - DQN NIPS 2013
 - DQN Nature 2015
+
+#### Policy-Based Reinforcement Learning
+
 - Policy Gradient
   - REINFORCE, no summary, implementation
+
+#### Actor-Critic Reinforcement Learning 
+
 - Advantage Actor-Critic (A2C), no summary, implementation.
 - Asynchronous Advantage Actor-Critic (A3C)
 - GPU-based A3C for Deep Reinforcement Learning (GA3C)
