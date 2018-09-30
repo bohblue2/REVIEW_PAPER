@@ -19,22 +19,6 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 ### Reinforcement Learning(RL)
 
-- Playing Atari with Deep Reinforcement Learning. [Paper](https://arxiv.org/abs/1312.5602) [Review & Implementation](https://github.com/bohblue2/Playing-Atari-with-Deep-Reinforcement-Learning)
-
-  Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra,  Martin Riedmiller, ArXiv, 2013 
-
-- Human-level control through deep reinforcement learning. [Paper](https://www.nature.com/articles/nature14236) [Review & Implementation](https://github.com/bohblue2/Human-level-control-through-deep-reinforcement-learning)
-
-  Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg & Demis Hassabis, Nature, 2015
-
-- Continuous Deep Q-Learning with Model-based Acceleration.
-
-- Double Q-Learning
-
-- Dualing Network
-
-- Prioritized Experience Replay
-
 - Policy Gradient Methods for Reinforcement Learning with Function Approximation. [Paper](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) [Review & Implementation](https://github.com/bohblue2/Policy-Gradient-Methods-for-Reinforcement-Learning-with-Function-Approximation)
 
   Richard S. Sutton, David McAllester, Satinder Singh, Yishay Mansour, NIPS, 2000
@@ -47,13 +31,47 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
   > Mente-Carlo Policy Gradient: REINFORCE
 
-- Asynchronous methods for deep reinforcement learning. [Paper](https://arxiv.org/abs/1602.01783v2) [Review & Implementation]()
+- Playing Atari with Deep Reinforcement Learning. [Paper](https://arxiv.org/abs/1312.5602) [Review & Implementation](https://github.com/bohblue2/Playing-Atari-with-Deep-Reinforcement-Learning)
 
-  Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Tim Harley, Timothy P. Lillicrap, David Silver, Koray Kavukcuoglu, ArXiv, 2016
+  Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra,  Martin Riedmiller, ArXiv, 2013 
+
+- Human-level control through deep reinforcement learning. [Paper](https://www.nature.com/articles/nature14236) [Review & Implementation](https://github.com/bohblue2/Human-level-control-through-deep-reinforcement-learning)
+
+  Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg & Demis Hassabis, Nature, 2015
+
+- Deep Reinforcement Learning with Double Q-learning. [Paper](https://arxiv.org/abs/1509.06461) [Review & Implementation](
+
+  Hado van Hasselt, Arthur Guez, David Silver, NIPS, 2015
+
+- Dueling Network Architectures for Deep Reinforcement Learning. [Paper](https://arxiv.org/abs/1511.06581) [Review & Implementation](
+
+  Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas, ArXiv, 2015
+
+  > http://bluediary8.tistory.com/9
+  >
+  > http://mlg.postech.ac.kr/~readinglist/slides/20161011.pdf
+
+- Prioritized Experience Replay. [Paper](https://arxiv.org/abs/1511.05952) [Review & Implementation](
+
+  Tom Schaul, John Quan, Ioannis Antonoglou, David Silver, ICLR, 2016
+
+- Asynchronous Methods for Deep Reinforcement Learning. [Paper](https://arxiv.org/abs/1602.01783v2) [Review & Implementation](https://github.com/bohblue2/Asynchronous-Methods-for-Deep-Reinforcement-Learning)
+
+  Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Tim Harley, Timothy P. Lillicrap, David Silver, Koray Kavukcuoglu, ICML, 2016
 
   > https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752
+  >
+  > http://openresearch.ai/t/a3c-asynchronous-methods-for-deep-reinforcement-learning/25
 
-- GPU-based A3C for Deep Reinforcement Learning (GA3C)
+- Reinforcement Learning through Asynchronous Advantage Actor-Critic on a GPU. [Paper](https://arxiv.org/abs/1611.06256v3) [Review](
+
+  Mohammad Babaeizadeh, Iuri Frosio, Stephen Tyree, Jason Clemons, Jan Kautz, NIPS, 2016
+
+  > https://openreview.net/forum?id=r1VGvBcxl
+
+- Continuous Deep Q-Learning with Model-based Acceleration. [Paper](https://arxiv.org/abs/1603.00748) [Review & Implementation](
+
+  Shixiang Gu, Timothy Lillicrap, Ilya Sutskever, Sergey Levine, ICML, 2016
 
 - Anticipatory Asynchronous Advantage Actor-Critic (A4C)
 
@@ -75,11 +93,17 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 - PPO
 
-- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments. [Paper](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf) [Review & Implementation](
+
+  Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, Igor Mordatch, NIPS, 2017
+
+  > http://www.modulabs.co.kr/DeepLAB_Paper/15445
+
+- Hierarchical Deep Reinforcement Learning (HDQN) 
 
 ### AutoEncoder(AE) 
 
-### Others(Optimization, Visualization, ...) 
+### Others(Optimization, Regularization, ...) 
 
 - Geometry of energy landscapes and the optimizability of deep neural networks. [Paper](https://arxiv.org/abs/1808.00408) [Review](https://github.com/bohblue2/Geometry-of-energy-landscapes-and-the-optimizability-of-deep-neural-networks)
 
@@ -126,3 +150,5 @@ These are for learning domain knowledge.
 # Parallel Distributed Processing
 
 I'm studying this field just for fun! it is interesting! isn't it Sir?
+
+> https://towardsdatascience.com/how-to-rapidly-test-dozens-of-deep-learning-models-in-python-cb839b518531
