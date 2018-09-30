@@ -1,5 +1,5 @@
 # REVIEW_PAPER
-Summaries and implementations of papers on deep learning.
+Summaries and implementations of papers on **deep learning**, **quantitative investing** and **parallel distributed processing**.
 
 > **Please note that these reviews are for my future self to look back and remember the materials on this paper without reading it all over again.**
 >
@@ -19,8 +19,6 @@ Summaries and implementations of papers on deep learning.
 
 ### Reinforcement Learning(RL)
 
-(in-progress)
-
 - Playing Atari with Deep Reinforcement Learning. [Paper](https://arxiv.org/abs/1312.5602) [Review & Implementation](https://github.com/bohblue2/Playing-Atari-with-Deep-Reinforcement-Learning)
 
   Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra,  Martin Riedmiller, ArXiv, 2013 
@@ -30,6 +28,12 @@ Summaries and implementations of papers on deep learning.
   Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg & Demis Hassabis, Nature, 2015
 
 - Continuous Deep Q-Learning with Model-based Acceleration.
+
+- Double Q-Learning
+
+- Dualing Network
+
+- Prioritized Experience Replay
 
 - Policy Gradient Methods for Reinforcement Learning with Function Approximation. [Paper](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) [Review & Implementation](https://github.com/bohblue2/Policy-Gradient-Methods-for-Reinforcement-Learning-with-Function-Approximation)
 
@@ -55,6 +59,24 @@ Summaries and implementations of papers on deep learning.
 
 - Distributional Advantage Actor-Critic (DA2C)
 
+- ACER
+
+- ACKTR
+
+- DPG
+
+- DDPG
+
+- NPG
+
+- TRPO
+
+- GAE
+
+- PPO
+
+- Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments
+
 ### AutoEncoder(AE) 
 
 ### Others(Optimization, Visualization, ...) 
@@ -71,7 +93,7 @@ Summaries and implementations of papers on deep learning.
 
 # Deep Learning, Applied to Finance
 
-This category focuses on stock price (or fundamentals) prediction from long-term or short-term perspective, and efficient asset management (portfolio optimization and asset allocation using deep learning).
+This category focuses on **stock price (or fundamentals) prediction** from long-term or short-term perspective, **efficient asset management** (**portfolio optimization** and **dynamic asset allocation**) using deep learning.
 
 - Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals. [Paper](https://arxiv.org/abs/1711.04837) [Review](https://github.com/bohblue2/Improving-Factor-Based-Quantitative-Investing-by-Forecasting-Company-Fundamentals)
 
@@ -101,6 +123,6 @@ These are for learning domain knowledge.
 
 
 
-# Parallel Distributed Processing on Deep Learning
+# Parallel Distributed Processing
 
 I'm studying this field just for fun! it is interesting! isn't it Sir?
