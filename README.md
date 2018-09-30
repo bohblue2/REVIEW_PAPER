@@ -21,14 +21,39 @@ Summaries and implementations of papers on deep learning.
 
 (in-progress)
 
-- DQN NIPS 2013
-- DQN Nature 2015
-- Policy Gradient
-  - REINFORCE, no summary, implementation
-- Advantage Actor-Critic (A2C), no summary, implementation.
-- Asynchronous Advantage Actor-Critic (A3C)
+- Playing Atari with Deep Reinforcement Learning. [Paper](https://arxiv.org/abs/1312.5602) [Review & Implementation](https://github.com/bohblue2/Playing-Atari-with-Deep-Reinforcement-Learning)
+
+  Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra,  Martin Riedmiller, ArXiv, 2013 
+
+- Human-level control through deep reinforcement learning. [Paper](https://www.nature.com/articles/nature14236) [Review & Implementation](https://github.com/bohblue2/Human-level-control-through-deep-reinforcement-learning)
+
+  Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Andrei A. Rusu, Joel Veness, Marc G. Bellemare, Alex Graves, Martin Riedmiller, Andreas K. Fidjeland, Georg Ostrovski, Stig Petersen, Charles Beattie, Amir Sadik, Ioannis Antonoglou, Helen King, Dharshan Kumaran, Daan Wierstra, Shane Legg & Demis Hassabis, Nature, 2015
+
+- Continuous Deep Q-Learning with Model-based Acceleration.
+
+- Policy Gradient Methods for Reinforcement Learning with Function Approximation. [Paper](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) [Review & Implementation](https://github.com/bohblue2/Policy-Gradient-Methods-for-Reinforcement-Learning-with-Function-Approximation)
+
+  Richard S. Sutton, David McAllester, Satinder Singh, Yishay Mansour, NIPS, 2000
+
+  > Vanilla Policy Gradient
+
+- Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning. [Paper](https://doi.org/10.1007/BF00992696) [Implementation](https://github.com/bohblue2/Simple-Statistical-Gradient-Following-Algorithms-for-Connectionist-Reinforcement-Learning)
+
+  Ronald J. Williams, Mach Learn, 1992
+
+  > Mente-Carlo Policy Gradient: REINFORCE
+
+- Asynchronous methods for deep reinforcement learning. [Paper](https://arxiv.org/abs/1602.01783v2) [Review & Implementation]()
+
+  Volodymyr Mnih, Adrià Puigdomènech Badia, Mehdi Mirza, Alex Graves, Tim Harley, Timothy P. Lillicrap, David Silver, Koray Kavukcuoglu, ArXiv, 2016
+
+  > https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752
+
 - GPU-based A3C for Deep Reinforcement Learning (GA3C)
+
 - Anticipatory Asynchronous Advantage Actor-Critic (A4C)
+
+- Distributional Advantage Actor-Critic (DA2C)
 
 ### AutoEncoder(AE) 
 
