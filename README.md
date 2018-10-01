@@ -5,7 +5,7 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 >
 > Thank you.
 
->  **Some reviews are in progress.**
+>  **Some reviews are in daft. It will be finished with in a month :)**
 
 # Deep Learning
 
@@ -152,3 +152,7 @@ These are for learning domain knowledge.
 I'm studying this field just for fun! it is interesting! isn't it Sir?
 
 > https://towardsdatascience.com/how-to-rapidly-test-dozens-of-deep-learning-models-in-python-cb839b518531
+
+- Impala
+- ape-x
+- relaax (REinforcement Learning Algorithms, Autoscaling and eXchange (RELAAX))
