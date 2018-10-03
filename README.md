@@ -41,7 +41,7 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
   Hado van Hasselt, Arthur Guez, David Silver, NIPS, 2015
 
-- (WIP) **Dueling Network Architectures for Deep Reinforcement Learning.** [Paper](https://arxiv.org/abs/1511.06581) [Review & Implementation](
+- (WIP) **Dueling Network Architectures for Deep Reinforcement Learning.** [Paper](https://arxiv.org/abs/1511.06581) [Review & Implementation]()
 
   Ziyu Wang, Tom Schaul, Matteo Hessel, Hado van Hasselt, Marc Lanctot, Nando de Freitas, ArXiv, 2015
 
