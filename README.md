@@ -19,7 +19,7 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 ### Reinforcement Learning(RL)
 
-- Policy Gradient Methods for Reinforcement Learning with Function Approximation. [Paper](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) [Review & Implementation](https://github.com/bohblue2/Policy-Gradient-Methods-for-Reinforcement-Learning-with-Function-Approximation)
+- **Policy Gradient Methods for Reinforcement Learning with Function Approximation**. [Paper](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) [Review & Implementation](https://github.com/bohblue2/Policy-Gradient-Methods-for-Reinforcement-Learning-with-Function-Approximation)
 
   Richard S. Sutton, David McAllester, Satinder Singh, Yishay Mansour, NIPS, 2000
 
@@ -133,6 +133,8 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 This category focuses on **stock price (or fundamentals) prediction** from long-term or short-term perspective, **efficient asset management** (**portfolio optimization** and **dynamic asset allocation**) using deep learning.
 
+https://paperswithcode.com/search?q=stock
+
 - Improving Factor-Based Quantitative Investing by Forecasting Company Fundamentals. [Paper](https://arxiv.org/abs/1711.04837) [Review](https://github.com/bohblue2/Improving-Factor-Based-Quantitative-Investing-by-Forecasting-Company-Fundamentals)
 
   John Alberg, Zachary C. Lipton, ArXiv, 2018
@@ -145,6 +147,12 @@ This category focuses on **stock price (or fundamentals) prediction** from long-
 
   Zhengyo Jiang, Dixing Xu, Jinjun Liang, ArXiv, 2017
 
+  > https://github.com/bohblue2/rl-portfolio-management
+  >
+  > https://github.com/bohblue2/PGPortfolio
+  >
+  > https://github.com/qq303067814/Reinforcement-learning-in-portfolio-management-	
+
 - A deep learning framework for financial time series using stacked autoencoders and long-short term memory. [Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180944) [Review](https://github.com/bohblue2/A-deep-learning-framework-for-financial-time-series-using-stacked-autoencoders-and-long-short-term-m)
 
    Wei Bao, Jun Yue, Yulei Rao, PLOS, 2017
@@ -152,6 +160,18 @@ This category focuses on **stock price (or fundamentals) prediction** from long-
 - Deep Direct Reinforcement Learning for Financial Signal Representation and Trading. [Paper](https://ieeexplore.ieee.org/document/7407387/) [Review](https://github.com/bohblue2/Deep-Direct-Reinforcement-Learning-for-Financial-Signal-Representation-and-Trading)
 
    Yue Deng, Feng Bao, Youyong Kong, Zhiquan Ren, and Qionghai Dai, Senior Member, IEEE, 2017
+
+- ##### Stock Price Correlation Coefficient Prediction with ARIMA-LSTM Hybrid Model
+
+   > https://arxiv.org/abs/1808.01560v5
+   >
+   > https://github.com/imhgchoi/Corr_Prediction_ARIMA_LSTM_Hybrid
+
+- #####  A Machine Learning Framework for Stock Selection 
+
+- 괜찮은 논문이 있어서 올립니다~ Methodology만 가져와도 좋을듯 합니다. (1) paper : <https://arxiv.org/abs/1808.01560v5> source code: <https://github.com/imhgchoi/Corr_Prediction_ARIMA_LSTM_Hybrid> (2) <https://arxiv.org/abs/1806.01743v2>
+
+- https://github.com/fxy96/Stock-Selection-a-Framework> 
 
 
 
