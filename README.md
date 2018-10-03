@@ -113,6 +113,20 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
   Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
 
+- Batchnorm
+
+- Relu
+
+- Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour
+
+  > https://arxiv.org/abs/1706.02677
+  >
+  > https://hma02.github.io/AllanMa/assets/pdf/2017-7-31-imagenet-in-1h.pdf
+
+- Overview of popular gradient optimization methods.
+
+- L1, L2, Huber Loss
+
 
 
 # Deep Learning, Applied to Finance
