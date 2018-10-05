@@ -15,7 +15,24 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 ### Generative Adversarial Network(GAN)
 
-- Generative Adversarial Nets 2014
+#### TODO
+- (2018. 10. 05) Generative Adversarial Nets 2014
+- (2018. 10. 12) DCGAN
+- (2018. 10. 12) Conditional GAN
+- (2018. 10. 19) VAE, AE
+- (2018. 10. 26) Image Style Tranfer Using Convolutional Neural Networks
+- (2018. 10. 26) Perceptual Losses for real-time style transfer and super-resolution
+- (2018. 11. 02) LSGAN
+- (2018. 11. 02) Improved GAN
+- (2018. 11. 09) Pix2pix
+- (2018. 11. 09) CycleGAN
+- (2018. 11. 23) Artistic style transfer for video COVST(coherent video style transfer)
+- (2018. 11. 30) WGAN
+- (2018. 12. 07) simGAN
+- (2018. 12. 07) AnoGAN
+- (2018. 12 .14) PGGAN
+- (2018. 12. 14) EnhanceNet
+- (2018. 12.  25) Happy Marry Christmas!
 
 ### Recurrent Neural Network(RNN)
 
