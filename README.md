@@ -15,6 +15,10 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 ### Generative Adversarial Network(GAN)
 
+- (WIP) **Generative Adversarial Nets**. [Paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [Review & Implementation](https://github.com/bohblue2/Generative-Adversarial-Nets)
+
+  Ian J. Goodfellow , Jean Pouget-Abadie , Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair , Aaron Courville, Yoshua Bengio, NIPS, 2014
+
 #### TODO
 - (2018. 10. 05) Generative Adversarial Nets 2014
 - (2018. 10. 12) DCGAN
