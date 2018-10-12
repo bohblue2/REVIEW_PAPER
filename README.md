@@ -13,16 +13,25 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 ### Convolutional Neural Network(CNN)
 
+- **A guide to convolution arithmetic for deep learning**. [Paper](https://arxiv.org/abs/1603.07285) [Additional Material (1)](https://github.com/vdumoulin/conv_arithmetic) [(2)](https://tensorflow.blog/a-guide-to-convolution-arithmetic-for-deep-learning/)
+
+  Vincent Dumoulin, Francesco Visin, ArXiv, 2016
+
 ### Generative Adversarial Network(GAN)
 
 - (WIP) **Generative Adversarial Nets**. [Paper](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) [Review & Implementation](https://github.com/bohblue2/Generative-Adversarial-Nets)
 
   Ian J. Goodfellow , Jean Pouget-Abadie , Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair , Aaron Courville, Yoshua Bengio, NIPS, 2014
 
+- (WIP) **Conditional Generative Adversarial Nets**. [Paper](https://arxiv.org/abs/1411.1784) [Review & Implementation](https://github.com/bohblue2/Conditional-Generative-Adversarial-Nets)
+
+  Mehdi Mirza, Simon Osindero, CVPR, 2014
+
+- (WIP) **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**. [Paper](https://arxiv.org/abs/1511.06434) [Review & Implementation](https://github.com/bohblue2/Unsupervised-Representation-Learning-with-Deep-Convolutional-Generative-Adversarial-Networks)
+
+  Alec Radford, Luke Metz, Soumith Chintala, ICLR, 2016
+
 #### TODO
-- (2018. 10. 05) Generative Adversarial Nets 2014
-- (2018. 10. 12) DCGAN
-- (2018. 10. 12) Conditional GAN
 - (2018. 10. 19) VAE, AE
 - (2018. 10. 26) Image Style Tranfer Using Convolutional Neural Networks
 - (2018. 10. 26) Perceptual Losses for real-time style transfer and super-resolution
@@ -111,6 +120,8 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 - (WIP) **Visualizing Data using t-SNE** [Paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) [Review & Implementation](https://github.com/bohblue2/Visualizing-Data-using-t-SNE)
 
   Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
+
+- (WIP) **KL-Divergence** [Review & Implementation]()
 
 
 
