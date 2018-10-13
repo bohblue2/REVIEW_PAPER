@@ -32,7 +32,7 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
   Alec Radford, Luke Metz, Soumith Chintala, ICLR, 2016
 
 #### TODO
-- (2018. 10. 19) VAE, AE
+- (2018. 10. 26) VAE, AE
 - (2018. 10. 26) Image Style Tranfer Using Convolutional Neural Networks
 - (2018. 10. 26) Perceptual Losses for real-time style transfer and super-resolution
 - (2018. 11. 02) LSGAN
@@ -121,7 +121,7 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
   Laurens van der Maaten, Geoffrey Hinton, Journal of Machine Learning Research, 2008
 
-- (WIP) **KL-Divergence** [Review & Implementation]()
+- (WIP) **Brief Summary: KL-Divergence, Cross-Entropy** [Review & Implementation](https://github.com/bohblue2/Brief-Summary-KL-Divergence-Cross-Entropy)
 
 
 
