@@ -123,7 +123,9 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
 - (WIP) **Brief Summary: KL-Divergence, Cross-Entropy** [Review & Implementation](https://github.com/bohblue2/Brief-Summary-KL-Divergence-Cross-Entropy)
 
+- (WIP) **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**. [Paper](https://arxiv.org/abs/1502.03167) [Review & Implementation]()
 
+  Sergey loffe, Christian Szegedy, ArXiv, 2015
 
 
 # Deep Learning, Applied to Finance
