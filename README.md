@@ -108,6 +108,9 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 - TRPO
 - GAE
 - PPO
+- Safe Model-based Reinforcement Learning with Stability Guarantees
+- Curiosity-driven Exploration by Self-supervised Prediction
+- Large-Scale Study of Curiosity-Driven Learning
 
 ### AutoEncoder(AE) 
 
