@@ -31,10 +31,18 @@ Summaries and implementations of papers on **deep learning**, **quantitative inv
 
   Alec Radford, Luke Metz, Soumith Chintala, ICLR, 2016
 
+- (WIP) **Image Style Transfer Using Convolutional Neural Networks**. [Paper](https://ieeexplore.ieee.org/document/7780634/) 
+
+  Leon A. Gatys, Alexander S. Ecker, Matthais Bethge, CVPR, 2016
+
+- (WIP) **Perceptual Losses for real-time style transfer and super-resolution**. [Paper](https://arxiv.org/abs/1603.08155)
+
+  Justin Jonhson, Alexandre Alahi, Li Fei-Fei, CVPR, 2016
+
+  
+
 #### TODO
 - (2018. 10. 26) VAE, AE
-- (2018. 10. 26) Image Style Tranfer Using Convolutional Neural Networks
-- (2018. 10. 26) Perceptual Losses for real-time style transfer and super-resolution
 - (2018. 11. 02) LSGAN
 - (2018. 11. 02) Improved GAN
 - (2018. 11. 09) Pix2pix
